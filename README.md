@@ -1,2 +1,2 @@
 # picoCalc-HD
-HD Display Board for Pic0Calc
+HD Display Board for PicoCalc
